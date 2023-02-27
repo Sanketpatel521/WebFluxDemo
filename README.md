@@ -1,10 +1,10 @@
 # About WebFluxDemo
 
-WebFluxDemo is a demo Spring Boot application demonstrating how to create REST APIs using Web Flux.
+WebFluxDemo is a demo Spring Boot application demonstrating how to create REST APIs using Web-Flux. it also uses spring security to authorize users.
 
 # How to run application Locally
 
-* update MySQL and MongoDB related Data (i.e. DB URL, username and password) in the application.properties file.
+* Update MySQL and MongoDB related Data (i.e. DB URL, username and password) in the application.properties file.
 * Add sample data in Database
 * Start Spring Boot Application
 
